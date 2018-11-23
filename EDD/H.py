@@ -104,7 +104,7 @@ class Pyramid:
     ]               used_nodes = self.unset_used_nodes(used_nodes, i, j)
 
                 if(get_value > max):
-                    
+
                     self.max_price = get_value
 
 
